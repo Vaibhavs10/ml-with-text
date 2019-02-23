@@ -1,6 +1,6 @@
 ## Tutorial: Machine Learning with Text using Python
 
-Adapted from some of the content from [Kevin Markham](http://www.dataschool.io/about/).
+Round of applause to [Kevin Markham](http://www.dataschool.io/) and his video tutorials!
 
 Instructor: [Vaibhav Srivastav](https://www.linkedin.com/in/vaibhavs10/)
 
