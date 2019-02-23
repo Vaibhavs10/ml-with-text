@@ -1,7 +1,8 @@
 ## Tutorial: Machine Learning with Text using Python
 
-Credit: [Kevin Markham](http://www.dataschool.io/about/).
-Presenter: [Vaibhav Srivastav](https://www.linkedin.com/in/vaibhavs10/)
+Adapted from some of the content from [Kevin Markham](http://www.dataschool.io/about/).
+
+Instructor: [Vaibhav Srivastav](https://www.linkedin.com/in/vaibhavs10/)
 
 ### Description
 
@@ -52,7 +53,7 @@ Vaibhav Srivastav is a Data Scientist currently working with Deloitte Consulting
 In his free time he teaches Machine Learning/ Data Science to young coders! If Python is what floats your boat then hit him up on any of the channels below:  
 
 * Email: [Vaibhavs10@gmail.com](mailto:vaibhavs10@gmail.com)
-* Twitter: [@justmarkham](https://twitter.com/vaibhavsriv10)
+* Twitter: [@Vaibhavs10](https://twitter.com/vaibhavsriv10)
 
 ### Recommended Resources
 
