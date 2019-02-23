@@ -53,7 +53,7 @@ Vaibhav Srivastav is a Data Scientist currently working with Deloitte Consulting
 In his free time he teaches Machine Learning/ Data Science to young coders! If Python is what floats your boat then hit him up on any of the channels below:  
 
 * Email: [Vaibhavs10@gmail.com](mailto:vaibhavs10@gmail.com)
-* Twitter: [@Vaibhavs10](https://twitter.com/vaibhavsriv10)
+* Twitter: [@Vaibhavsriv10](https://twitter.com/vaibhavsriv10)
 
 ### Recommended Resources
 
